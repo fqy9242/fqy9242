@@ -1,0 +1,12 @@
+/* 用于GitHub Pages的额外样式 */
+.capsule {
+  margin: 20px 0;
+}
+
+.project-card {
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  padding: 16px;
+  margin: 10px;
+  background-color: #0d1117;
+}
