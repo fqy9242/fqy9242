@@ -1,12 +1,24 @@
-/* 用于GitHub Pages的额外样式 */
-.capsule {
-  margin: 20px 0;
+/* 项目卡片网格布局 */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
 }
 
-.project-card {
-  border: 1px solid #30363d;
-  border-radius: 6px;
-  padding: 16px;
-  margin: 10px;
-  background-color: #0d1117;
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .github-stats-card {
+    width: 100%!important;
+  }
+}
+
+/* Vue主题色系 */
+:root {
+  --vue-green: #42b883;
+  --vue-blue: #35495e;
 }
