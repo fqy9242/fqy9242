@@ -47,9 +47,8 @@
 
 ## 📈 编码活动
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_ID&theme=vue-dark&layout=compact&langs_count=6" />
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fqy9242&theme=vue-dark)
+
 
 ---
 
