@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=42B883&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Qin Huitong;Vue+FullStack+Developer;Java+Backend+Engineer;Python+Automation+Enthusiast" alt="动态标题" />
-</div>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=42B883&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Qin Huitong;Vue+FullStack+Developer;Java+Backend+Engineer;Python+Automation+Enthusiast"/>
+
 <h2>🛠️ 技术栈</h2>
 
 <p align="center">
@@ -14,12 +13,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fqy9242&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
-
-
----
-
-
-
 ## 🚀 精选项目
 
 <div align="center" class="project-grid">
@@ -32,15 +25,7 @@
   <a href="项目3链接">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fqy9242&repo=python-project&theme=vue-dark&show_owner=true" />
   </a>
-</div>
-
-
-
-
-
-
-
-
+	</div>
 
 ## 📈 编码活动
 
