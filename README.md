@@ -1,8 +1,7 @@
 <div align="center">
-  <!-- 动态标题动画 -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=42B883&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Qin Huitong;Vue+FullStack+Developer;Java+Backend+Engineer;Python+Automation+Enthusiast" alt="动态标题" />
 </div>
-## 🛠️ 技术栈
+<h2>🛠️ 技术栈</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,vite,nuxtjs,js,ts,java,spring,python,django,postgres,redis,aws,docker,git&theme=dark" />
@@ -27,11 +26,9 @@
 	  <a href="https://github.com/fqy9242/24-dormitory_vue3-js">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fqy9242&repo=24-dormitory_vue3-js&theme=vue-dark&show_owner=true" />
   </a>
-
   <a href="项目2链接">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fqy9242&repo=java-project&theme=vue-dark&show_owner=true" />
   </a>
-
   <a href="项目3链接">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fqy9242&repo=python-project&theme=vue-dark&show_owner=true" />
   </a>
