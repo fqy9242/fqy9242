@@ -1,4 +1,10 @@
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=42B883&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Qin Huitong;Vue+FullStack+Developer;Java+Backend+Engineer;Python+Automation+Enthusiast"/>
+ <h1 align="center">
+  <b>你好，我是qht</b>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Vue-全栈开发者-42B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue FullStack Developer"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-后端工程师-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Backend Engineer"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-自动化爱好者-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation Enthusiast"></a>
+</h1>
 
 <h2>🛠️ 技术栈</h2>
 
