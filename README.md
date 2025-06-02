@@ -32,14 +32,14 @@
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fqy9242&repo=intelligenceNutrition-app&theme=vue-dark&show_owner=true" />
 </a>
 	</div>
-## 📈 编码活动
+<h2> 📈 编码活动</h2>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fqy9242&theme=vue-dark)
 
 
 ---
 
-## 📫 联系我
+<h2>📫 联系我</h2>
 
 <p align="center">
   <a href="mailto:59605904@qq.com">
