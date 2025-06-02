@@ -19,20 +19,19 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fqy9242&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
-## 🚀 精选项目
+<h2> 🚀 精选项目</h2>
 
 <div align="center" class="project-grid">
-	  <a href="https://github.com/fqy9242/24-dormitory_vue3-js">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fqy9242&repo=24-dormitory_vue3-js&theme=vue-dark&show_owner=true" />
-  </a>
-  <a href="项目2链接">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fqy9242&repo=java-project&theme=vue-dark&show_owner=true" />
-  </a>
-  <a href="项目3链接">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fqy9242&repo=python-project&theme=vue-dark&show_owner=true" />
-  </a>
+	<a href="https://github.com/fqy9242/intelligentNutrition-server">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fqy9242&repo=intelligentNutrition-server&theme=vue-dark&show_owner=true" />
+  	</a>
+	<a href="https://github.com/fqy9242/24-dormitory_vue3-js">
+    	<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fqy9242&repo=24-dormitory_vue3-js&theme=vue-dark&show_owner=true" />
+  	</a>
+  <a href="https://github.com/fqy9242/intelligenceNutrition-app">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fqy9242&repo=intelligenceNutrition-app&theme=vue-dark&show_owner=true" />
+</a>
 	</div>
-
 ## 📈 编码活动
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fqy9242&theme=vue-dark)
